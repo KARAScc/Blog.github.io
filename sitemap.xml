@@ -9,14 +9,21 @@
   </url>
   
   <url>
-    <loc>https://karascc.github.io/Blog.github.io/categories/index.html</loc>
+    <loc>https://karascc.github.io/Blog.github.io/about/index.html</loc>
     
     <lastmod>2020-08-12</lastmod>
     
   </url>
   
   <url>
-    <loc>https://karascc.github.io/Blog.github.io/catagories/index.html</loc>
+    <loc>https://karascc.github.io/Blog.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-08-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://karascc.github.io/Blog.github.io/categories/index.html</loc>
     
     <lastmod>2020-08-12</lastmod>
     
@@ -32,14 +39,14 @@
 
   
   <url>
-    <loc>https://karascc.github.io/Blog.github.io/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE%E4%B8%80/</loc>
+    <loc>https://karascc.github.io/Blog.github.io/tags/%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2020-08-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://karascc.github.io/Blog.github.io/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE%E4%BA%8C/</loc>
+    <loc>https://karascc.github.io/Blog.github.io/tags/%E6%88%90%E5%B0%B1/</loc>
     <lastmod>2020-08-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
