@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://karascc.github.io/Blog.github.io/2020/07/24/hello-world/</loc>
+    <loc>https://karascc.github.io/Blog.github.io/1970/01/01/hello-world/</loc>
     
-    <lastmod>2020-07-27</lastmod>
+    <lastmod>2020-08-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://karascc.github.io/Blog.github.io/categories/index.html</loc>
+    
+    <lastmod>2020-08-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://karascc.github.io/Blog.github.io/catagories/index.html</loc>
+    
+    <lastmod>2020-08-12</lastmod>
     
   </url>
   
@@ -34,7 +48,7 @@
 
   
   <url>
-    <loc>https://karascc.github.io/Blog.github.io/categories/%E6%96%87%E7%AB%A0%E5%88%86%E7%B1%BB/</loc>
+    <loc>https://karascc.github.io/Blog.github.io/categories/%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2020-08-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
