@@ -1,6 +1,122 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Typora入门：全网最全教程</title>
+    <url>/Blog.github.io/2020/08/13/Typora%E5%85%A5%E9%97%A8%EF%BC%9A%E5%85%A8%E7%BD%91%E6%9C%80%E5%85%A8%E6%95%99%E7%A8%8B/</url>
+    <content><![CDATA[<h3 id="Typora入门：全网最全教程"><a href="#Typora入门：全网最全教程" class="headerlink" title="Typora入门：全网最全教程"></a>Typora入门：全网最全教程</h3><p>写Mrakdown费事？Typora让你像写Word一样行云流水，所见即所得。</p>
+<p>[toc]</p>
+<h4 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h4><p>Typora是一款轻便简洁的Markdown编辑器，支持即时渲染技术，这也是与其他Markdown编辑器最显著的区别。即时渲染使得你写Markdown就想是写Word文档一样流畅自如，不像其他编辑器的有编辑栏和显示栏。</p>
+<ul>
+<li>Typora删除了预览窗口，以及所有其他不必要的干扰。取而代之的是实时预览。</li>
+<li>Markdown的语法因不同的解析器或编辑器而异，Typora使用的是GitHub Flavored Markdown。</li>
+</ul>
+<h4 id="Markdown介绍"><a href="#Markdown介绍" class="headerlink" title="Markdown介绍"></a>Markdown介绍</h4><p>Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。</p>
+<p>Markdown 语言在 2004 由约翰·格鲁伯（英语：John Gruber）创建。</p>
+<p>Markdown 编写的文档可以导出 HTML 、Word、图像、PDF、Epub 等多种格式的文档。</p>
+<p>Markdown 编写的文档后缀为 .md, .markdown。</p>
+<h4 id="常用快捷键"><a href="#常用快捷键" class="headerlink" title="常用快捷键"></a>常用快捷键</h4><ul>
+<li><p>加粗： Ctrl + B</p>
+</li>
+<li><p>标题： Ctrl + H</p>
+</li>
+<li><p>插入链接： Ctrl + K</p>
+</li>
+<li><p>插入代码： Ctrl + Shift + C – 无法执行</p>
+</li>
+<li><p>行内代码： Ctrl + Shift + K</p>
+</li>
+<li><p>插入图片： Ctrl + Shift + I</p>
+</li>
+<li><p>无序列表：Ctrl + Shift + L – 无法执行</p>
+</li>
+<li><p>撤销： Ctrl + Z</p>
+</li>
+<li><p>一级标题： Ctrl + 1 – 以此类推</p>
+<h5 id="Typora快捷键整合"><a href="#Typora快捷键整合" class="headerlink" title="Typora快捷键整合"></a>Typora快捷键整合</h5></li>
+</ul>
+<figure class="highlight angelscript"><table><tr><td class="code"><pre><span class="line">Ctrl+<span class="number">1</span>  一阶标题    Ctrl+B  字体加粗</span><br><span class="line">Ctrl+<span class="number">2</span>  二阶标题    Ctrl+I  字体倾斜</span><br><span class="line">Ctrl+<span class="number">3</span>  三阶标题    Ctrl+U  下划线</span><br><span class="line">Ctrl+<span class="number">4</span>  四阶标题    Ctrl+Home   返回Typora顶部</span><br><span class="line">Ctrl+<span class="number">5</span>  五阶标题    Ctrl+End    返回Typora底部</span><br><span class="line">Ctrl+<span class="number">6</span>  六阶标题    Ctrl+T  创建表格</span><br><span class="line">Ctrl+L  选中某句话   Ctrl+K  创建超链接</span><br><span class="line">Ctrl+D  选中某个单词  Ctrl+F  搜索</span><br><span class="line">Ctrl+E  选中相同格式的文字   Ctrl+H  搜索并替换</span><br><span class="line">Alt+Shift+<span class="number">5</span> 删除线 Ctrl+Shift+I    插入图片</span><br><span class="line">Ctrl+Shift+M    公式块 Ctrl+Shift+Q    引用</span><br><span class="line"></span><br><span class="line">注：一些实体符号需要在实体符号之前加”\”才能够显示</span><br></pre></td></tr></table></figure>
+<h4 id="块元素"><a href="#块元素" class="headerlink" title="块元素"></a>块元素</h4><h4 id="换行符"><a href="#换行符" class="headerlink" title="换行符"></a>换行符</h4><p>在markdown中，段落由多个空格分隔。在Typora中，只需回车即可创建新段落。</p>
+<h4 id="标题级别"><a href="#标题级别" class="headerlink" title="标题级别"></a>标题级别</h4><p>一级标题 快捷键为 Ctrl + 1</p>
+<p>二级标题 快捷键为 Ctrl + 2</p>
+<p>……</p>
+<p>六级标题 快捷键为 Ctrl + 6</p>
+<h4 id="引用文字"><a href="#引用文字" class="headerlink" title="引用文字"></a>引用文字</h4><p>&gt; + 空格 + 引用文字</p>
+<h4 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h4><p>使用 * + - 都可以创建一个无序列表</p>
+<ul>
+<li><p>AAA</p>
+</li>
+<li><p>BBB</p>
+</li>
+<li><p>CCC</p>
+<h4 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h4><p>使用 1. 2. 3. 创建有序列表</p>
+</li>
+<li><p>AAA</p>
+</li>
+<li><p>BBB</p>
+</li>
+<li><p>CCC</p>
+<h4 id="任务列表"><a href="#任务列表" class="headerlink" title="任务列表"></a>任务列表</h4><p>\ -[ ] 不勾选<br>\ -[x] 勾选</p>
+</li>
+</ul>
+<h4 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h4><p>在Typora中插入程序代码的方式有两种：使用反引号 `（~ 键）、使用缩进（Tab）。</p>
+<ul>
+<li><p>插入行内代码，即插入一个单词或者一句代码的情况，使用 code 这样的形式插入。</p>
+</li>
+<li><p>插入多行代码输入3个反引号（`） + 回车，并在后面选择一个语言名称即可实现语法高亮。</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">helloworld</span><span class="params">()</span>:</span></span><br><span class="line">    print(<span class="string">"hello, world!"</span>)</span><br></pre></td></tr></table></figure>
+
+<h4 id="数学表达式"><a href="#数学表达式" class="headerlink" title="数学表达式"></a>数学表达式</h4><p>当你需要在编辑器中插入数学公式时，可以使用两个美元符 $$ 包裹 TeX 或 LaTeX 格式的数学公式来实现。根据需要加载 Mathjax 对数学公式进行渲染。</p>
+</li>
+</ul>
+<p>按下 $$，然后按下回车键，即可进行数学公式的编辑。</p>
+<p>$$<br>\mathbf{V}_1\times\mathbf{V}_2 = \mathbf{X}_3<br>$$</p>
+<h4 id="插入表格"><a href="#插入表格" class="headerlink" title="插入表格"></a>插入表格</h4><p>输入 | 表头1 | 表头2 |并回车。即可创建一个包含2列表。快捷键 Ctrl + T弹出对话框。</p>
+<table>
+<thead>
+<tr>
+<th>id</th>
+<th>number</th>
+</tr>
+</thead>
+<tbody><tr>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<ul>
+<li>不管是哪种方式，第一行为表头，第二行为分割表头和主体部分，第三行开始每一行为一个表格行</li>
+<li>列与列之间用管道符号| 隔开</li>
+<li>还可设置对齐方式(表头与内容之间)，如果不使用对齐标记，内容默认左对齐，表头居中对齐</li>
+</ul>
+<ol>
+<li>左对齐 ：|</li>
+<li>右对齐 |：</li>
+<li>中对齐 ：|：<ul>
+<li>为了美观，可以使用空格对齐不同行的单元格，并在左右两侧都使用 | 来标记单元格边界</li>
+</ul>
+</li>
+</ol>
+<ul>
+<li>为了使 Markdown 更清晰，| 和 - 两侧需要至少有一个空格（最左侧和最右侧的 | 外就不需要了）。</li>
+</ul>
+<h4 id="脚注"><a href="#脚注" class="headerlink" title="脚注"></a>脚注</h4><p>这个例子的脚注为[1]。</p>
+<p>注意：该例子脚注标识是1，脚注标识可以为字母数字下划线，但是暂不支持中文。脚注内容可为任意字符，包括中文。</p>
+<h4 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h4><p>输入 *** 或者 — 再按回车即可绘制一条水平线，如下：</p>
+<h4 id="目录（TOC）"><a href="#目录（TOC）" class="headerlink" title="目录（TOC）"></a>目录（TOC）</h4><p>输入 [ toc ] 然后回车，即可创建一个“目录”。TOC从文档中提取所有标题，其内容将自动更新。</p>
+<h4 id="跨度元素"><a href="#跨度元素" class="headerlink" title="跨度元素"></a>跨度元素</h4><p>跨度元素即图片，网址，视频等，在Typora中输入后，会立即载入并呈现。</p>
+<h4 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h4><h5 id="内部链接"><a href="#内部链接" class="headerlink" title="内部链接"></a>内部链接</h5><p>这是一个带有标题属性的 <a href="http://example.com/" target="_blank" rel="noopener" title="标题">链接</a><br>这是一个没有标题属性的 <a href="http://example.net/" target="_blank" rel="noopener">链接</a></p>
+<p>链接</p>
+<p>链接</p>
+<h4 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h4><p>这是一个[参考链接]id – 无法执行</p>
+<h4 id="网址"><a href="#网址" class="headerlink" title="网址"></a>网址</h4><p>Typora允许用&lt;括号括起来&gt;, 把URL作为链接插入。</p>
+<p>Typora还会自动链接标准网址。</p>
+<p><a href="http://www.baidu.com" target="_blank" rel="noopener">www.baidu.com</a></p>
+<h4 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h4><p><img src="C:%5CUsers%5CHider%5CDesktop%5Cechart.png" alt="显示的文字" title="图片标题"></p>
+<p><img src="C:%5CUsers%5CHider%5CDesktop%5Cechart.png" alt="显示的文字"></p>
+<p>除了以上2种方式之外，还可以直接将图片拖拽进来，自动生成链接。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>博客2</title>
     <url>/Blog.github.io/1970/01/01/blog2/</url>
     <content><![CDATA[<p>今天是2020年8月12号</p>
@@ -31,7 +147,7 @@
       </categories>
       <tags>
         <tag>日记</tag>
-        <tag>成就</tag>
+        <tag>心情</tag>
       </tags>
   </entry>
 </search>
