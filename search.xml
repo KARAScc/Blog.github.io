@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>我的第一篇博客</title>
+    <url>/Blog.github.io/1970/01/01/FirstBlog/</url>
+    <content><![CDATA[<p>今天开始我的博客之路</p>
+<a id="more"></a>
+
+<p>关注走一波，永远不迷路</p>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+      <tags>
+        <tag>日记</tag>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Typora入门：全网最全教程</title>
     <url>/Blog.github.io/1970/01/01/Typora%E5%85%A5%E9%97%A8%EF%BC%9A%E5%85%A8%E7%BD%91%E6%9C%80%E5%85%A8%E6%95%99%E7%A8%8B/</url>
     <content><![CDATA[<p>写Mrakdown费事？Typora让你像写Word一样行云流水，所见即所得。</p>
@@ -124,40 +140,6 @@
       <tags>
         <tag>技术</tag>
         <tag>博客</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>博客2</title>
-    <url>/Blog.github.io/1970/01/01/blog2/</url>
-    <content><![CDATA[<p>今天是2020年8月12号</p>
-<a id="more"></a>
-
-<p>今天修饰了我的博客</p>
-<p>注意：description 和 <!-- more --> 方式显示摘要二选一即可，部分主题不支持description，每个配置英文冒号后面要空一格，不同主题配置有所差异，具体要参考主题文档</p>
-]]></content>
-      <categories>
-        <category>文章</category>
-      </categories>
-      <tags>
-        <tag>日记</tag>
-        <tag>成就</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我的第一篇博客</title>
-    <url>/Blog.github.io/1970/01/01/hello-world/</url>
-    <content><![CDATA[<p>这里是摘要</p>
-<a id="more"></a>
-
-<p>这里是正文</p>
-<p>注意：description 和 <!-- more --> 方式显示摘要二选一即可，部分主题不支持description，每个配置英文冒号后面要空一格，不同主题配置有所差异，具体要参考主题文档</p>
-]]></content>
-      <categories>
-        <category>文章</category>
-      </categories>
-      <tags>
-        <tag>日记</tag>
-        <tag>心情</tag>
       </tags>
   </entry>
 </search>
